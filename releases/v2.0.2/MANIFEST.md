@@ -11,6 +11,7 @@ Clients: Windows 10 1809+ · macOS 10.15+ · Linux kernel 5.4+.
 | File | Purpose | Install |
 |---|---|---|
 | `WebHook-2.0.2.exe` | Windows — ONE AnyDesk-style exe | Double-click = portable; in-app Install (per-user, no UAC) or all-users (UAC) |
+| `WebHook-2.0.2-win.zip` | Windows unpacked (112 MB) | Extract & run `WebHook.exe` — use if the single exe is blocked |
 | `WebHook-2.0.2.AppImage` | Linux Portable | `chmod +x` and run |
 | `WebHook-2.0.2.deb` | Linux Installed (amd64) | `sudo dpkg -i` |
 | `WebHook-2.0.2.zip` | macOS app (unsigned zip) | Unzip → right-click Open (first run) |
