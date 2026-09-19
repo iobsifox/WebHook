@@ -22,14 +22,9 @@ The product includes remote-access clients, server bundles and release verificat
 
 ## Code composition
 
-Percentages are calculated from the tracked files in the private product source repository using GitHub language statistics.
+Percentages are calculated from the tracked product source using GitHub language statistics.
 
-| Language | Percentage |
-| --- | ---: |
-| TypeScript | 95.1% |
-| CSS | 4.1% |
-| HTML | 0.5% |
-| Shell | 0.3% |
+![Code language composition](language-composition.svg)
 
 ---
 

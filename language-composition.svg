@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="84" viewBox="0 0 800 84" role="img" aria-label="Code language composition">
+<defs><clipPath id="bar"><rect width="800" height="12" rx="6"/></clipPath></defs>
+<g clip-path="url(#bar)">
+<rect x="0.00" width="760.80" height="12" fill="#3178C6"/>
+<rect x="760.80" width="32.80" height="12" fill="#563D7C"/>
+<rect x="793.60" width="4.00" height="12" fill="#E34C26"/>
+<rect x="797.60" width="2.40" height="12" fill="#89E051"/>
+</g>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" fill="#8c959f">
+<rect x="0" y="21" width="10" height="10" rx="5" fill="#3178C6"/>
+<text x="17" y="31" fill="#8c959f">TypeScript 95.1%</text>
+<rect x="400" y="21" width="10" height="10" rx="5" fill="#563D7C"/>
+<text x="417" y="31" fill="#8c959f">CSS 4.1%</text>
+<rect x="0" y="47" width="10" height="10" rx="5" fill="#E34C26"/>
+<text x="17" y="57" fill="#8c959f">HTML 0.5%</text>
+<rect x="400" y="47" width="10" height="10" rx="5" fill="#89E051"/>
+<text x="417" y="57" fill="#8c959f">Shell 0.3%</text>
+</g>
+</svg>
